@@ -1,6 +1,9 @@
 .done {
   text-decoration: line-through;
 }
+body {
+  color: rgb(161, 40, 40) d;
+}
 
 @tailwind base;
 @tailwind components;
